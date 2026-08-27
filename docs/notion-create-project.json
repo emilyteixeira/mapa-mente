@@ -1,0 +1,12 @@
+{
+  "allow_async": false,
+  "pages": [
+    {
+      "properties": {
+        "title": "MapaMente — Produto e Desenvolvimento"
+      },
+      "icon": "🧠",
+      "content": "# Visão do produto {color=\"purple\"}\nO **MapaMente** é um aplicativo móvel e PWA para criar, editar e sincronizar mapas mentais em iOS, Android e Web. A experiência é offline-first: o dispositivo permanece funcional sem cadastro e o Firebase atua como sincronização opcional.\n<callout icon=\"📌\" color=\"purple_bg\">\n\t**Status atual:** descoberta, arquitetura e planejamento de sprints concluídos. Implementação em andamento.\n</callout>\n## Objetivos\n- Criar mapas rapidamente com um nó central pronto.\n- Editar tópicos por toque, mouse ou teclado.\n- Salvar automaticamente no dispositivo.\n- Sincronizar entre dispositivos quando o Firebase estiver configurado.\n- Oferecer uma experiência acessível em diferentes tamanhos de tela.\n## Sprints planejados\n<table fit-page-width=\"true\" header-row=\"true\">\n\t<tr>\n\t\t<td>Sprint</td>\n\t\t<td>Objetivo</td>\n\t\t<td>Status</td>\n\t</tr>\n\t<tr>\n\t\t<td>Sprint 0</td>\n\t\t<td>Descoberta, design e arquitetura</td>\n\t\t<td>Concluída</td>\n\t</tr>\n\t<tr>\n\t\t<td>Sprint 1</td>\n\t\t<td>Biblioteca e persistência offline</td>\n\t\t<td>Planejada</td>\n\t</tr>\n\t<tr>\n\t\t<td>Sprint 2</td>\n\t\t<td>Editor visual e ferramentas</td>\n\t\t<td>Planejada</td>\n\t</tr>\n\t<tr>\n\t\t<td>Sprint 3</td>\n\t\t<td>Firebase e experiência multiplataforma</td>\n\t\t<td>Planejada</td>\n\t</tr>\n\t<tr>\n\t\t<td>Sprint 4</td>\n\t\t<td>Qualidade, marca e entrega</td>\n\t\t<td>Planejada</td>\n\t</tr>\n</table>\n## Definição de pronto\nUma feature é concluída apenas quando possui fluxo funcional, feedback, acessibilidade, persistência adequada, verificação TypeScript, testes quando aplicáveis e documentação atualizada nesta área do Notion.\n## Fontes técnicas\n- [Expo — Using Firebase](https://docs.expo.dev/guides/using-firebase/)\n- [Firebase — Access data offline](https://firebase.google.com/docs/firestore/manage-data/enable-offline)\n- [Apple HIG — Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility)\n- [Android — Make apps more accessible](https://developer.android.com/guide/topics/ui/accessibility/apps)"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page_id": "3c91c663-3ba9-814c-af31-cca51276eef8",
+  "command": "update_content",
+  "content_updates": [
+    {
+      "old_str": "<callout icon=\"📌\" color=\"purple_bg\">\n\t**Status atual:** descoberta, arquitetura e planejamento de sprints concluídos. Implementação em andamento.\n</callout>",
+      "new_str": "<callout icon=\"✓\" color=\"green_bg\">\n\t**Status final:** MVP desenvolvido, testado e documentado. TypeScript e ESLint sem erros, 14 testes aprovados e 15 rotas PWA exportadas.\n</callout>\n<callout icon=\"⚙\" color=\"yellow_bg\">\n\t**Pendência externa:** autenticação e sincronização Firebase estão implementadas e possuem testes de merge, mas a validação contra um projeto real aguarda os seis valores públicos do aplicativo Web, que não foram fornecidos. O modo local permanece completo.\n</callout>"
+    },
+    {
+      "old_str": "<tr>\n<td>Sprint 1</td>\n<td>Biblioteca e persistência offline</td>\n<td>Planejada</td>\n</tr>",
+      "new_str": "<tr>\n<td>Sprint 1</td>\n<td>Biblioteca e persistência offline</td>\n<td>Concluída</td>\n</tr>"
+    },
+    {
+      "old_str": "<tr>\n<td>Sprint 2</td>\n<td>Editor visual e ferramentas</td>\n<td>Planejada</td>\n</tr>",
+      "new_str": "<tr>\n<td>Sprint 2</td>\n<td>Editor visual e ferramentas</td>\n<td>Concluída</td>\n</tr>"
+    },
+    {
+      "old_str": "<tr>\n<td>Sprint 3</td>\n<td>Firebase e experiência multiplataforma</td>\n<td>Planejada</td>\n</tr>",
+      "new_str": "<tr>\n<td>Sprint 3</td>\n<td>Firebase e experiência multiplataforma</td>\n<td>Concluída com pendência externa</td>\n</tr>"
+    },
+    {
+      "old_str": "<tr>\n<td>Sprint 4</td>\n<td>Qualidade, marca e entrega</td>\n<td>Planejada</td>\n</tr>",
+      "new_str": "<tr>\n<td>Sprint 4</td>\n<td>Qualidade, marca e entrega</td>\n<td>Concluída</td>\n</tr>"
+    }
+  ]
+}

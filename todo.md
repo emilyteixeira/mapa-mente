@@ -1,0 +1,33 @@
+# Project TODO
+
+- [x] Inicializar projeto React Native + Expo + TypeScript com suporte Web
+- [x] Criar plano de design móvel 9:16, responsivo e alinhado às HIG
+- [x] Pesquisar editores de mapas mentais e padrões de interação relevantes
+- [x] Consolidar requisitos funcionais e não funcionais
+- [x] Definir modelos de dados para mapas, nós, conexões, preferências e sincronização
+- [x] Planejar sprints com escopo, critérios de aceite e riscos
+- [x] Criar estrutura de documentação do produto no Notion
+- [x] Configurar identidade visual e tokens de tema claro/escuro
+- [x] Implementar navegação entre Biblioteca, Organização, Sincronização e Configurações
+- [x] Implementar Biblioteca com busca, filtros e estados vazios
+- [x] Implementar criação de mapa em branco e por modelos
+- [x] Implementar estado global com histórico de desfazer/refazer
+- [x] Implementar persistência offline com AsyncStorage
+- [x] Implementar canvas com nós e conexões SVG
+- [x] Implementar seleção, criação, edição, movimentação e exclusão de nós
+- [x] Implementar zoom, pan, centralização e minimapa no editor
+- [x] Implementar personalização de texto, cores e hierarquia dos nós
+- [x] Implementar favoritos, duplicação, etiquetas e lixeira
+- [x] Implementar autenticação Firebase
+- [x] Implementar sincronização Firestore com fallback local
+- [x] Implementar indicador de conectividade e conflitos de sincronização
+- [x] Configurar PWA e comportamento responsivo para celulares, tablets e Web
+- [x] Implementar acessibilidade, ajuda contextual e atalhos de teclado na Web
+- [x] Gerar e aplicar ícone exclusivo do MapaMente em todas as plataformas
+- [x] Adicionar testes unitários para domínio, persistência e sincronização
+- [x] Executar verificação TypeScript, lint e testes automatizados
+- [x] Validar visualmente as telas principais na PWA e estruturalmente nos breakpoints móvel e desktop
+- [x] Documentar cada feature e sprint no Notion
+- [x] Atualizar README com arquitetura, instalação, Firebase e publicação
+- [x] Revisar todo o backlog e salvar checkpoint final
+- [x] Corrigir concatenação ao substituir títulos controlados no editor
